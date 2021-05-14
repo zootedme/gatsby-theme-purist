@@ -2,14 +2,14 @@
   "name": "gatsby-theme-purist",
   "version": "1.3.1",
   "main": "index.js",
-  "author": "Sebastian Ojeda <hello@sebastianojeda.com> (@sebsojeda)",
+  "author": "Jeffrey Gaboni <iamthenewking@webdevpl.us> (@iamthenewking)",
   "license": "0BSD",
   "description": "A clean, full-featured theme with built-in dark mode, and social sharing – all for creating content with Gatsby.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sebsojeda/gatsby-theme-purist"
+    "url": "https://github.com/iamthenewking/gatsby-theme-purist"
   },
-  "homepage": "https://gatsby-theme-purist.netlify.app",
+  "homepage": "https://webdevpl.us/",
   "keywords": [
     "gatsby",
     "gatsby-plugin",
